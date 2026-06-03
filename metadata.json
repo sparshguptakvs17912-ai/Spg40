@@ -1,0 +1,6 @@
+{
+  "name": "Arise Fitness",
+  "description": "Solo Leveling inspired 100 Rep daily workouts logging app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
